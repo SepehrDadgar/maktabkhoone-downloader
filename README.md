@@ -5,6 +5,7 @@
 pip install -r .\requirements.txt
 ```
 ابندا توی اکانت مکتبخونه لاگین بشین و با افزونه ای مانند Get cookies.txt LOCALLY کوکی های سایت رو دانلود کنید (با استایل نت اسکیپ)
+قیل از استفاده دکمه شروع یادگیری رو بزنید
 ## Basic usage
 ```bash
 python mktabk_downloader.py "https://maktabkhooneh.org/course/%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-hspice-mk323/" --cookies maktabkhooneh.org_cookies.txt --out name-of-course --quality high
